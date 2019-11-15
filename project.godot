@@ -15,9 +15,5 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Intro to 3D"
-config/icon="res://icon.png"
-
-[rendering]
-
-environment/default_environment="res://default_env.tres"
+config/name="11a 3-D Intro"
+run/main_scene="res://World.tscn"
